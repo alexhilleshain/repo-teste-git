@@ -1,0 +1,6 @@
+# Ignora todos os arquivos .log
+*.log
+# Ignora todos os arquivos na pasta “temp”
+temp/
+# Ignora o arquivo config.php
+config.php
